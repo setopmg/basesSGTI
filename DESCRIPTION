@@ -1,0 +1,11 @@
+Package: basesSGTI
+Type: Package
+Title: Bases do Sistema de Gestão do Transporte Intermunicipal de Minas Gerais
+Version: 0.1.0
+Author: Samira Marx
+Maintainer: Samira Marx <samira.marx@transportes.mg.gov.br>
+Description: Bases completas dos sistema de transporte intermunicipal de ônibus do Estado de Minas Gerais, gerenciado pela Secretaria de Estado de Transportes e Obras Públicas.
+    Estas bases incluem dados das delegatárias, linhas e atendimentos, contratos e quadro demonstrativos de movimento de passageiros (QDMP).
+License: Creative Commons CC BY 4.0
+Encoding: UTF-8
+LazyData: true
